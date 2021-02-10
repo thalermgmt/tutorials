@@ -104,4 +104,4 @@ You have now exported a filtered portion of your dataset to manipulate further o
 - [General Refine Expression Language Guide](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
 - [OpenRefine on Github](https://github.com/OpenRefine/OpenRefine/wiki/Documentation-For-Users) 
 
-This tutorial was adapted and written by Sam Thaler in Fall 2020.  
+This tutorial was adapted and written by Sam Thaler/@thalermgmt in Fall 2020.  
